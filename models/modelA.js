@@ -6,5 +6,5 @@ var airport = {
   isIlluminati: true,
   isHaunted: true,
   airlines: ['Delta', 'Frontier', 'American Airlines' , 'Southwest'],
-  concourses: ['Concourse A' , 'Concourse B' , 'Concourse C'],
+  concourses: ['Concourse A' , 'Concourse B' , 'Concourse C']
 }

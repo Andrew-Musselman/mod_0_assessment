@@ -6,4 +6,5 @@ var num9 = 27;
 var sum = num3 + num9;
 var animals = ['cats', 'dogs', 'kangaroos'];
 animals.shift();
-var len = famousPerson.length; 
+var len = famousPerson.length;
+cosole.log(len);
